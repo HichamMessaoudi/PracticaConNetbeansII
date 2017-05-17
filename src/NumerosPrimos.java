@@ -19,7 +19,6 @@ public class NumerosPrimos {
             }    
         }
         System.out.println("La cantidad de numeros primos es :" + cnp);
-        System.out.println("La cantidad de numeros primos es :" + cnp);
     }
 
 }
